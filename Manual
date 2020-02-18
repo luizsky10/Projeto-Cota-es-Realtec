@@ -1,0 +1,29 @@
+1 - Para compilar e executar o programa - No linux - Mint ou Ubuntu.
+
+2 - Abra o terminal dentro da pasta do projeto.
+
+3 - digite: make
+
+4- Para executar o programa, digite: ./cotacao.exe
+
+5 - Após executar o programa, o programa listará algumas opções:
+
+Digite 0 - Para cadastrar uma nova cotação e preencha os campos seguintes.
+
+Digite 1 - Para pesquisar uma cotação já existente, logo após digite o código do produto desejado.
+obs: O programa listará todas as cotações existente para o código digitado, inclusive as cotações com as datas vencidas.
+
+Digite 2 - Para pesquisar a cotação com o melhor preço dentre as cotações, digite o código do produto e o programa irá retornar a cotação com o melhor preço dentre as cotações cadastradas, cotações vencidas não são exibidas.
+
+Digite 5 - Para encerrar o Programa.
+
+
+Sobre o projeto:
+
+O projeto foi todo desenvolvido em C++, sem nenhum tipo de IDE ou framework, apenas editores de texto e o terminal do linux mint 18.3 para executar a compilação.
+
+As telas foram desenvolvidas e exportadas para .pgn no software Pencil.
+
+
+
+
